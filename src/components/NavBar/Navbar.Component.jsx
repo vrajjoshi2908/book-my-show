@@ -48,7 +48,7 @@ function NavLg(){
     alt="logo" 
     className="w-full h-full content-center mx-4"/>
         </div>
-        <div className="container flex mx-auto  gap-3  px-4 justify-between w-3/4  hover:border-gray-300 hover:border-2 rounded-md">
+        <div className="container flex mx-auto  gap-3  px-4 justify-between w-3/4  hover:border-none rounded-md">
         <div className="flex items-center w-1/2 gap-3">
         
         <div className="w-full flex items-center gap-3 bg-white px-3 py-1 rounded-md ">

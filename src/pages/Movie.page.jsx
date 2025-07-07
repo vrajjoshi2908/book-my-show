@@ -158,11 +158,8 @@ const MoviePage = () => {
             posters={recommendedMovies}
             isDark={false}
           /> 
-        </div> 
-         <div className="my-8">
-          <hr />
-        </div>   
-    </>
+          </div>
+   </>
   );
 };
 
